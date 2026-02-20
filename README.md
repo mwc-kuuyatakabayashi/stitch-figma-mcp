@@ -1,2 +1,2 @@
-# stich-figma-mcp
+# stitch-figma-mcp
 stitchのバイブコーディングテストです
